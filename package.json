@@ -1,0 +1,11 @@
+{
+  "name": "euid_finder",
+  "version": "1.0.0",
+  "description": "Sort a list of CSV columns and output depending on if the line contains a specific value",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "author": "Dominick Bartenope",
+  "license": "MIT"
+}
